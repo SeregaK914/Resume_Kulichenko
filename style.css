@@ -1,0 +1,379 @@
+#rectangle_1 {
+  position: absolute;
+  top: 0%;
+  right: 25%;
+  width: 48%;
+  height: 1200px;
+  background: #bdbdbd;
+}
+
+#rectangle_2 {
+  position: fixed;
+  top: 0%;
+  right: 58%;
+  width: 15%;
+  height: 1200px;
+  background: #616161;
+}
+
+.Name {
+  font-size: 250%;
+  color: #424242;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 120px;
+  height: 90px;
+  position: absolute;
+  top: 5%;
+  right: 51%;
+}
+
+.Name_1 {
+  font-size: 120%;
+  color: #424242;
+
+  text-transform: uppercase;
+
+  height: 90px;
+  position: absolute;
+  top: 14%;
+  right: 35.5%;
+}
+
+.avatar {
+  position: absolute;
+  top: 11%;
+  right: 60.5%;
+  border-radius: 59px;
+}
+
+#left {
+  position: absolute;
+  width: 234px;
+  height: 2.5px;
+  color: #5d4037;
+  top: 53%;
+  right: 58%;
+}
+
+#left2 {
+  position: absolute;
+  width: 234px;
+  height: 2.5px;
+  color: #5d4037;
+  top: 75%;
+  right: 58%;
+}
+
+#left3 {
+  position: absolute;
+  width: 234px;
+  height: 2.5px;
+  color: #5d4037;
+  top: 92.5%;
+  right: 58%;
+}
+
+#left4 {
+  background-color: #424242;
+  position: absolute;
+  width: 520px;
+  height: 2.5px;
+  top: 40%;
+  right: 0%;
+}
+
+.Contacts_1 {
+  position: absolute;
+  font-size: 130%;
+  color: #efebe9;
+  text-transform: uppercase;
+  top: 37.2%;
+  right: 82%;
+}
+
+.Contacts_2 {
+  position: absolute;
+  font-size: 130%;
+  color: #efebe9;
+  text-transform: uppercase;
+  top: 54%;
+  right: 80.5%;
+}
+
+.Contacts_3 {
+  position: absolute;
+  font-size: 130%;
+  color: #efebe9;
+  text-transform: uppercase;
+  top: 67.3%;
+  right: 86%;
+}
+
+.Skills_2 {
+  position: absolute;
+  font-size: 110%;
+  color: #efebe9;
+  text-transform: uppercase;
+  width: 200px;
+  top: 94%;
+  right: 59%;
+}
+
+.email {
+  position: absolute;
+  top: 55.5%;
+  right: 69.5%;
+}
+
+.tel {
+  position: absolute;
+  top: 59%;
+  right: 69.5%;
+}
+
+.location {
+  position: absolute;
+  top: 62.5%;
+  right: 69.5%;
+}
+
+.pochta {
+  position: absolute;
+  font-size: 90%;
+  color: #efebe9;
+  top: 54%;
+  right: 60%;
+}
+
+.telephone {
+  position: absolute;
+  font-size: 90%;
+  color: #efebe9;
+  top: 57.5%;
+  right: 63%;
+}
+
+.locations {
+  position: absolute;
+  font-size: 90%;
+  color: #efebe9;
+  top: 61%;
+  right: 57.5%;
+  width: 220px;
+}
+
+.Education {
+  position: absolute;
+  font-size: 90%;
+  color: #efebe9;
+  top: 77%;
+  right: 58.5%;
+  width: 220px;
+}
+
+
+/* ------------------------------------------- */
+
+
+h2 {
+  font-size: 100%;
+  color: #424242;
+  width: 580px;
+  text-decoration: none;
+  
+  height: 100px;
+  position: absolute;
+  top: 20%;
+  right: 2%;
+}
+
+
+
+/* ------------------------------------------- */
+
+.work3 {
+  font-size: 130%;
+  color: #424242;
+  text-transform: uppercase;
+  height: 90px;
+  position: absolute;
+  top: 36%;
+  right: 35%;
+}
+
+.intership {
+  font-size: 105%;
+  color: #424242;
+  text-transform: uppercase;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 42%;
+  right: 19%;
+}
+
+.intern_date {
+  font-size: 95%;
+  color: #212121;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 46%;
+  right: 19%;
+}
+
+.fin_dep {
+  font-size: 100%;
+  color: #212121;
+  width: 390px;
+  height: 90px;
+  position: absolute;
+  top: 48%;
+  right: 14.5%;
+}
+
+.intellect {
+  font-size: 105%;
+  color: #424242;
+  text-transform: uppercase;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 55%;
+  right: 19%;
+}
+
+.intellect_date {
+  font-size: 95%;
+  color: #212121;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 59%;
+  right: 19%;
+}
+
+.intellect_job {
+  font-size: 100%;
+  color: #212121;
+  width: 390px;
+  height: 90px;
+  position: absolute;
+  top: 61%;
+  right: 14.5%;
+}
+
+.futute_fantasic {
+  font-size: 105%;
+  color: #424242;
+  text-transform: uppercase;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 69%;
+  right: 19%;
+}
+
+.futute_date {
+  font-size: 95%;
+  color: #212121;
+  width: 350px;
+  height: 90px;
+  position: absolute;
+  top: 72%;
+  right: 19%;
+}
+
+.sportdir_job {
+  font-size: 100%;
+  color: #212121;
+  width: 390px;
+  height: 90px;
+  position: absolute;
+  top: 74.5%;
+  right: 14.5%;
+}
+
+#left5 {
+  background-color: #424242;
+  position: absolute;
+  width: 520px;
+  height: 2.5px;
+  top: 88%;
+  right: 0%;
+}
+
+.joke {
+  font-size: 100%;
+  color: #212121;
+  width: 390px;
+  height: 90px;
+  position: absolute;
+  top: 88.5%;
+  right: 14.5%;
+}
+
+#cont1 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 30px;
+  top: 43%;
+  right: 63%;
+}
+
+#cont2 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 30px;
+  top: 56%;
+  right: 63%;
+}
+
+#cont3 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 30px;
+  top: 69.5%;
+  right: 63%;
+}
+
+#cont4 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 15px;
+  top: 43.9%;
+  right: 63.7%;
+}
+
+#cont5 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 15px;
+  top: 56.9%;
+  right: 63.7%;
+}
+
+#cont6 {
+  position: absolute;
+  content: ' \25CF';
+  font-size: 15px;
+  top: 70.4%;
+  right: 63.7%;
+}
+
+.vl {
+  position: absolute;
+  top: 45.5%;
+  right: 64.2%;
+  border-left: 5px solid #757575;
+  height: 140px;
+}
+
+.vl_2 {
+  position: absolute;
+  top: 58.4%;
+  right: 64.2%;
+  border-left: 5px solid #757575;
+  height: 145px;
+}
